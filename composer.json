@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-gradeexport-checklist",
+    "type": "moodle-gradeexport",
+    "description": "Grade Export Plugin",
+    "extra": {
+        "installer-name": "checklist",
+        "moodle": { "package_folder_name" : "checklist" }
+    }
